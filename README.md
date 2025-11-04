@@ -1,7 +1,7 @@
 # Ex.No: 08     MOVINTG AVERAGE MODEL AND EXPONENTIAL SMOOTHING
-### Date: 
-### NAME:NARESH.R
-### REG_NO:212223240104
+### Date: 4-11-25
+### NAME: NARESH.R
+### REG_NO: 212223240104
 
 ### AIM:
 To implement Moving Average Model and Exponential smoothing Using Python.
